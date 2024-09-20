@@ -16,8 +16,8 @@ This project aims to bridge communication gaps by developing a Real-Time Sign La
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/sign-language-recognition.git
-   cd sign-language-recognition
+   git clone https://github.com/svvsaiteja/GLC-HP-Hackathon.git
+   cd GLC-HP-Hackathon
    ```
 
 2. **Install Dependencies:**
